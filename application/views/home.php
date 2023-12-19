@@ -3,7 +3,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
+        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <div>
             <h1>Aplikasi Registrasi Online UPT Pelatihan Koperasi dan UKM Provinsi Jawa Timur</h1>
             <h2>Platform pendaftaran dalam satu portal</h2>
