@@ -1,6 +1,6 @@
 <main id="main">      
   <!-- ======= Breadcrumbs ======= -->
-  <section id="breadcrumbs" class="breadcrumbs" data-aos="fade-up">
+  <section id="breadcrumbs" class="breadcrumbs">
     <div class="container">
       <h5><?= $menu ?></h5>
     </div>
