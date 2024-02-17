@@ -6,7 +6,7 @@
     </div>
     <div class="col-12">
       <a href="https://izin.uptkukm.id" class="btn btn-sm btn-secondary float-right">Kembali Ke Portal</a>      
-      <iframe src="https://logbook.uptkukm.id/form/perizinan" style="height:500px;width:100%;" title="Iframe Example" class="border-0"></iframe>
+      <iframe src="https://logbook.uptkukm.com/form/perizinan" style="height:500px;width:100%;" title="Iframe Example" class="border-0"></iframe>
     </div>
     </div>
   </section><!-- End Breadcrumbs -->
